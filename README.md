@@ -37,9 +37,8 @@
 ├── Output/                   
     └── bokeh_plot.png        # Image of the output
 </pre> <h2>▶️ Getting Started</h2><p><strong>Install dependencies</strong></p> <pre class="code-block"> pip install -r requirements.txt </pre> <p><strong>Open the Notebook</strong></p> <ul> <li>On your local Jupyter or Google Colab: <code>notebooks/notebook.ipynb</code></li> <li>Clear outputs, run all cells</li> </ul>
----
 
-### 📊 Sample Output
+ <h2> 📊 Sample Output </h2>
 
 ![Dynamic Pricing Plot](Output/bokeh_plot.png)
 
