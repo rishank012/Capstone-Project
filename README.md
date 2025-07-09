@@ -35,6 +35,12 @@
 ├── requirements.txt          # Required dependencies
 ├── README.md                 # Project description and documentation
 ├── Output/                   
-│   └── bokeh_plot.png        # Image of the output
+    └── bokeh_plot.png        # Image of the output
 </pre> <h2>▶️ Getting Started</h2><p><strong>Install dependencies</strong></p> <pre class="code-block"> pip install -r requirements.txt </pre> <p><strong>Open the Notebook</strong></p> <ul> <li>On your local Jupyter or Google Colab: <code>notebooks/notebook.ipynb</code></li> <li>Clear outputs, run all cells</li> </ul>
+---
+
+### 📊 Sample Output
+
+![Dynamic Pricing Plot](Output/bokeh_plot.png)
+
 <h2>🔗 License & Access</h2> <p>This repository is public.</p> <p>Feel free to explore, fork, and provide feedback.</p> </body> </html>
